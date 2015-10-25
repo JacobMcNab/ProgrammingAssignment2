@@ -1,4 +1,3 @@
-## Jacob McNab
 
 ## The function makes a special matrix that can cache it's inverse.
 ## Sets value of the matrix
@@ -37,3 +36,6 @@ cacheSolve <- function(x, ...) {
     x$setInverse(inv)
     inv
 }
+
+
+## credit to xmuxiaomo
